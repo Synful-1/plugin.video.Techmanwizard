@@ -184,7 +184,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Techman Wizard Repository</summary>
-        <description>My Custom build for Simplicity an Ease of use</description>
+        <description>Custom builds as Smooth and Simplified as you can get</description>
         <disclaimer />
         <platform>all</platform>
         <assets>
